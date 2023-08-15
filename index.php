@@ -22,7 +22,7 @@
 <body>
     <div class="container">
         <div class="row">
-            <div class="col-2 cal-xl-3">
+            <div class="col-2 cal-xl-3 " style = "border: 10px solid black">
                 <ul>
                     <a href="">
                         <li>Dashbord</li>
@@ -32,7 +32,7 @@
                     </a>
                 </ul>
             </div>
-            <div class="col-10 col-xl-9">
+            <div class="col-10 col-xl-9" style = "border: 10px solid black">
                 <div class="container "></div>
                 <div class="row pt-4 mb-4 align-items-center">
                     <div class="col-8">
